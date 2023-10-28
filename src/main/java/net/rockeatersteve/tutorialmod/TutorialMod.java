@@ -1,6 +1,7 @@
 package net.rockeatersteve.tutorialmod;
 
 import com.mojang.logging.LogUtils;
+import net.rockeatersteve.tutorialmod.block.ModBlocks;
 import net.rockeatersteve.tutorialmod.item.ModCreativeModTabs;
 import net.rockeatersteve.tutorialmod.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
@@ -28,6 +29,7 @@ public class TutorialMod {
         ModCreativeModTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
@@ -47,6 +49,19 @@ public class TutorialMod {
         else if (event.getTabKey() == CreativeModeTabs.COMBAT)
             {
             event.accept(ModItems.SPEAR);
+            }
+        else if (event.getTabKey() == CreativeModeTabs.INGREDIENTS)
+            {
+            event.accept(ModItems.RUBY);
+            event.accept(ModItems.RAW_RUBY);
+            }
+        else if (event.getTabKey() == CreativeModeTabs.NATURAL_BLOCKS)
+            {
+            event.accept(ModBlocks.RAW_RUBY_BLOCK);
+            }
+        else if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS)
+            {
+            event.accept(ModBlocks.RUBY_BLOCK);
             }
     }
 
