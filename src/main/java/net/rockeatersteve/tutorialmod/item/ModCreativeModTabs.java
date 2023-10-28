@@ -21,6 +21,8 @@ public class ModCreativeModTabs {
                     pOutput.accept(ModItems.SCYTHE.get());
                     pOutput.accept(ModItems.SPEAR.get());
 
+                    pOutput.accept(ModItems.REINFORCED_STICK.get());
+
                     pOutput.accept(ModItems.RUBY.get());
                     pOutput.accept(ModItems.RAW_RUBY.get());
 

@@ -54,6 +54,7 @@ public class TutorialMod {
             {
             event.accept(ModItems.RUBY);
             event.accept(ModItems.RAW_RUBY);
+            event.accept(ModItems.REINFORCED_STICK);
             }
         else if (event.getTabKey() == CreativeModeTabs.NATURAL_BLOCKS)
             {
