@@ -7,7 +7,9 @@
   "item.tutorialmod.reinforced_stick": "Reinforced Stick",
 
   "block.tutorialmod.ruby_block": "Block of Ruby",
-  "block.tutorialmod.raw_ruby_block": "Ruby Ore",
+  "block.tutorialmod.raw_ruby_block": "Block of Raw Ruby",
+  "block.tutorialmod.ruby_ore": "Ruby Ore",
+  "block.tutorialmod.deepslate_ruby_ore": "Deepslate Ruby Ore",
 
   "creativetab.tutorial_tab": "Gobber Items"
 }

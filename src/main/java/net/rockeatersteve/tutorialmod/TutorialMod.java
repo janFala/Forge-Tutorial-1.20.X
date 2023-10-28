@@ -58,7 +58,8 @@ public class TutorialMod {
             }
         else if (event.getTabKey() == CreativeModeTabs.NATURAL_BLOCKS)
             {
-            event.accept(ModBlocks.RAW_RUBY_BLOCK);
+            event.accept(ModBlocks.RUBY_ORE);
+            event.accept(ModBlocks.DEEPSLATE_RUBY_ORE);
             }
         else if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS)
             {

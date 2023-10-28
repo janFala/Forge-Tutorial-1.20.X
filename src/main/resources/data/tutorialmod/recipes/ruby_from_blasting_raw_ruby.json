@@ -1,8 +1,8 @@
 {
   "type": "minecraft:blasting",
   "category": "misc",
-  "cookingtime": 1000,
-  "experience": 20,
+  "cookingtime": 1000.0,
+  "experience": 20.0,
   "group": "ruby",
   "ingredient": {
     "item": "tutorialmod:raw_ruby"
