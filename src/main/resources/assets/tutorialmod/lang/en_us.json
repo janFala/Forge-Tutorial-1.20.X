@@ -3,6 +3,7 @@
   "item.tutorialmod.spear": "Spear",
   "item.tutorialmod.ruby": "Ruby",
   "item.tutorialmod.raw_ruby": "Raw Ruby",
+  "item.tutorialmod.detector": "Detector",
 
   "item.tutorialmod.reinforced_stick": "Reinforced Stick",
 
@@ -11,5 +12,18 @@
   "block.tutorialmod.ruby_ore": "Ruby Ore",
   "block.tutorialmod.deepslate_ruby_ore": "Deepslate Ruby Ore",
 
-  "creativetab.tutorial_tab": "Gobber Items"
+  "creativetab.tutorial_tab": "Gobber Items",
+
+  "item.tutorialmod.detector.no_valuables": "Nothing Detected!",
+
+  "block.tutorialmod.ruby_tester": "Ruby Tester",
+
+  "item.tutorialmod.chocolate_cake": "Chocolate Cake",
+
+  "item.tutorialmod.peat_brick": "Peat Brick",
+
+  "tooltip.tutorialmod.detector.tooltip.shift": "Right Click on Blocks to find Valuables!",
+  "tooltip.tutorialmod.detector.tooltip": "Press §eSHIFT§r for more Information",
+
+  "tooltip.tutorialmod.ruby_tester": "Plays a Sound when right clicked with a Ruby"
 }

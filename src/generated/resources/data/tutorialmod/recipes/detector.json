@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "N": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "R": {
+      "item": "tutorialmod:reinforced_stick"
+    }
+  },
+  "pattern": [
+    " RN",
+    " DR",
+    "R  "
+  ],
+  "result": {
+    "item": "tutorialmod:detector"
+  },
+  "show_notification": true
+}

@@ -45,6 +45,7 @@ public class TutorialMod {
         if(event.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES)
         {
         event.accept(ModItems.SCYTHE);
+        event.accept(ModItems.DETECTOR);
         }
         else if (event.getTabKey() == CreativeModeTabs.COMBAT)
             {

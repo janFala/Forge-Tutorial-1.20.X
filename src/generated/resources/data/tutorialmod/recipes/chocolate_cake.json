@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:sugar"
+    },
+    "V": {
+      "item": "minecraft:egg"
+    },
+    "X": {
+      "item": "minecraft:cocoa_beans"
+    }
+  },
+  "pattern": [
+    "XCV"
+  ],
+  "result": {
+    "item": "tutorialmod:chocolate_cake"
+  },
+  "show_notification": true
+}

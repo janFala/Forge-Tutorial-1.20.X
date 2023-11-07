@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "R": {
+      "item": "tutorialmod:reinforced_stick"
+    },
+    "X": {
+      "item": "tutorialmod:ruby"
+    }
+  },
+  "pattern": [
+    "  X",
+    " R ",
+    "R  "
+  ],
+  "result": {
+    "item": "tutorialmod:spear"
+  },
+  "show_notification": true
+}

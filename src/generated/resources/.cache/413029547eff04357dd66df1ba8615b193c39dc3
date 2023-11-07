@@ -1,0 +1,13 @@
+// 1.20.1	2023-11-07T12:59:52.7563911	Block States: tutorialmod
+227887ba16919b1cedc0c4188b78790643c2d62e assets/tutorialmod/blockstates/deepslate_ruby_ore.json
+d2ea57718b2b1d4bafd79cc6c71c483bab5528d7 assets/tutorialmod/blockstates/ruby_block.json
+1e28efa60d451a0277c0e06152dd9c47e3e73701 assets/tutorialmod/blockstates/ruby_ore.json
+16a3a171c8cabbe875443b256a5385101388bf5c assets/tutorialmod/blockstates/ruby_tester.json
+614c8479da11bdafaa7223f769520123ba171468 assets/tutorialmod/models/block/deepslate_ruby_ore.json
+d265fc031081fa3e6544db97d53afd58d746ef33 assets/tutorialmod/models/block/ruby_block.json
+eb1fa20950fba3a8d7186dc327c1ffb0dfce79b6 assets/tutorialmod/models/block/ruby_ore.json
+00035d8dd7aa9ffff48f6b317d1b04c5c3901f75 assets/tutorialmod/models/block/ruby_tester.json
+6be76f1a1ff65477cdf294793fa18f09f935d954 assets/tutorialmod/models/item/deepslate_ruby_ore.json
+a3afdbdc2d5bc2b6615dfde9596d1eeeb3dc4564 assets/tutorialmod/models/item/ruby_block.json
+f8363c61ac5c853aefbed155e9fe21d00ab5b177 assets/tutorialmod/models/item/ruby_ore.json
+c1126881c36f0ad0eb87afc1e55abbdadb457ca5 assets/tutorialmod/models/item/ruby_tester.json
